@@ -41,7 +41,7 @@ The project addresses the following analytical questions:
 Netflix_Data_Analysis/
 │
 ├── Netflix_Analysis.ipynb     # Main analysis notebook
-├── netflix_titles.csv         # Dataset file
+├── Netflix.csv         # Dataset file
 └── README.md                  # Project documentation
 ```
 
