@@ -60,7 +60,7 @@ Netflix_Data_Analysis/
 ## 📬 Contact
 
 **Vyomesh Katariya**  
-📧 Email: katariyavyomesh@gmail.com  
+📧 Email: mr.vyomesh.katariya@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/vyomesh-katariya-b9b86b289)  
 💻 [GitHub](https://github.com/KatariyaVyomesh)
 
