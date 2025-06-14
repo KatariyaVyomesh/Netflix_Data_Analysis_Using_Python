@@ -170,16 +170,13 @@ type_counts = df['type'].value_counts()
 
 ```bash
 # Step 1: Clone the repository
-git clone https://github.com/yourusername/netflix-content-analysis.git
-
-# Step 2: Navigate to the folder
-cd netflix-content-analysis
+git clone https://github.com/KatariyaVyomesh/Netflix_Data_Analysis_Using_Pandas/Netflix_Project
 
 # Step 3: Install required packages
 pip install pandas matplotlib seaborn
 
 # Step 4: Run the script
-python netflix_analysis.py
+python Netflix_Project.ipynb
 ```
 
 ---
