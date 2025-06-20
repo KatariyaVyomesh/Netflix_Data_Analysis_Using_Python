@@ -91,6 +91,13 @@ top_actors = df['cast'].str.split(', ').explode().value_counts().head(10)
 movie_duration = df[df['type']=='Movie'].groupby('country')['duration'].sum().sort_values(ascending=False).head(10)
 ```
 
+//ignore      -      -----------------------------------------
+### Content Strategy Analysis
+![Content Timeline](images/netflix_images/content_added_by_year.png)  
+*Fig 1. Content acquisition peaked in 2019 during the streaming wars*
+```
+
+
 ### ✅ Question 5: Which countries have the most seasons of TV shows?
 ```python
 tv_duration = df[df['type']=='TV Show'].groupby('country')['duration'].sum().sort_values(ascending=False).head(10)
