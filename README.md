@@ -1,3 +1,4 @@
+![Content Added by Month](./images/netflix_images/content_added_by_month.png)
 
 # 🎬 Netflix Content Analysis Dashboard
 
